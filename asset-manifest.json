@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imdbclone/static/css/main.e45fb457.css",
+    "main.js": "/imdbclone/static/js/main.32cb0ff2.js",
+    "index.html": "/imdbclone/index.html",
+    "main.e45fb457.css.map": "/imdbclone/static/css/main.e45fb457.css.map",
+    "main.32cb0ff2.js.map": "/imdbclone/static/js/main.32cb0ff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.32cb0ff2.js"
+  ]
+}
